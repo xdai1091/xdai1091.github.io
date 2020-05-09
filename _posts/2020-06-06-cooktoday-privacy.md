@@ -27,7 +27,7 @@ Please read this privacy notice carefully as it will help you make informed deci
  11. DO WE MAKE UPDATES TO THIS POLICY?
  12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-**. WHAT INFORMATION DO WE COLLECT?**
+**1. WHAT INFORMATION DO WE COLLECT?**
 
 **Information automatically collected**
 
