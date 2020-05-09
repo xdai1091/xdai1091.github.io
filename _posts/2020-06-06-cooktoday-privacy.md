@@ -67,6 +67,7 @@ Send you technical notices, updates, security alerts and support and administrat
 Communicate with you about recipes, products, services, offers, promotions, events and other news and information we think will be of interest to you;
 
 **3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
+
 _In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations._
 
 We may process or share data based on the following legal basis:
